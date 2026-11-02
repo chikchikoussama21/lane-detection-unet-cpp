@@ -1,0 +1,10 @@
+*.pt binary
+*.avi binary
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.csv text eol=lf
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.sh text eol=lf

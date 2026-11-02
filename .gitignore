@@ -1,0 +1,34 @@
+# Build outputs
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+Makefile
+*.o
+*.a
+*.so
+*.so.*
+*.exe
+# Generated demo outputs
+reports/
+# Local datasets and checkpoints
+data/raw/
+data/processed*/
+data/psu*/
+checkpoints/*.bak
+# Editor and temporary files
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.tmp
+*~
+*.swp
+__pycache__/
+.venv/
+
+# Personal GitHub setup documentation
+GITHUB_DEPLOYMENT_GUIDE.md
+GITHUB_DEPLOYMENT_GUIDE.pdf
